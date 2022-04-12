@@ -1,8 +1,8 @@
-# Decentralized Auction Application on Ethereum 🔥
+## Decentralized Auction Application on Ethereum 🔥
 
 This project aims to implement basic functionalities of an auction platform using Ethereum.
 
-## Requirements
+### Requirements
 
 ![Auction Diagram](auction_diagram.png)
 
@@ -35,7 +35,7 @@ Auction repository MUST act as an auction house which does the following:
 
 The front-end is developed using a reactive UI framework with integration of Vuetify, a Google's Material Design implementation.
 
-## Implementation/Data flow
+### Implementation/Data flow
 
 #### 1. Register an ERC721 Non-Fungible Token with the AuctionDaap Deed Repository
 
