@@ -15,9 +15,6 @@
 </div>
 
 ### Requirements
-
-![Auction Diagram](auction_diagram.png)
-
 The application should be decentralized and utilize Ethereum's stack:
 
 1. Smart contracts for business logic(auctions, bids, refund and transfer of ownership)
