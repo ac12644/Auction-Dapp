@@ -23,7 +23,7 @@ The application should be decentralized and utilize Ethereum's stack:
 1. Smart contracts for business logic(auctions, bids, refund and transfer of ownership)
 2. Swarm for data storage(image and metadata)
 3. Whisper for a peer-to-peer messaging(chatrooms)
-<img src="auction_diagram.png" alt="Logo" width="500" height="500">
+<img src="auction_diagram.png" alt="flow-diagram">
 
 ### Deed Repository
 Manage non-fungible tokens by implementing an asset/token/deed repository which holds unique asset/token/deed.
