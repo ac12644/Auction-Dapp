@@ -8,7 +8,7 @@
   <h3 align="center">Auction Dapp</h3>
 
   <p align="center">
-    This project aims to implement basic functionalities of an auction platform using Ethereum🔥
+    The Auction Dapp allows a user to register a “deed” token, which represents some unique asset. Once a token has been registered, the ownership of the token is transferred to the Auction Dapp, allowing it to be listed for sale. The dapp lists each of the registered tokens, allowing other users to place bids. During each auction, users can join a chat room created specifically for that auction. Once an auction is finalised, the deed token ownership is transferred to the winner of the auction.
     <br />
    <a href="https://betterprogramming.pub/a-complete-guide-to-build-ethereum-dapps-front-end-and-back-end-6fa44b66554b"><strong>Explore the article on Medium »</strong></a>
   </p>
