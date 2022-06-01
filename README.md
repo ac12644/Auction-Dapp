@@ -1,6 +1,18 @@
-## Decentralized Auction Application on Ethereum 🔥
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/ac12644/Auction-Dapp">
+    <img src="auction.png" alt="Logo" width="80" height="80">
+  </a>
 
-This project aims to implement basic functionalities of an auction platform using Ethereum.
+  <h3 align="center">Auction Dapp</h3>
+
+  <p align="center">
+    This project aims to implement basic functionalities of an auction platform using Ethereum🔥
+    <br />
+   <a href="https://betterprogramming.pub/a-complete-guide-to-build-ethereum-dapps-front-end-and-back-end-6fa44b66554b"><strong>Explore the article on Medium »</strong></a>
+  </p>
+</div>
 
 ### Requirements
 
@@ -11,6 +23,7 @@ The application should be decentralized and utilize Ethereum's stack:
 1. Smart contracts for business logic(auctions, bids, refund and transfer of ownership)
 2. Swarm for data storage(image and metadata)
 3. Whisper for a peer-to-peer messaging(chatrooms)
+<img src="auction_diagram.png" alt="Logo" width="300" height="280">
 
 ### Deed Repository
 Manage non-fungible tokens by implementing an asset/token/deed repository which holds unique asset/token/deed.
@@ -64,3 +77,18 @@ If an auction is canceled, the Auction Repository MUST return the ownership of t
 
 If there is an auction winner, the asset/token/deed is transferred to the bidder and the bid amount is sent to the auction creator.
 
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#top">back to top</a>)</p>
