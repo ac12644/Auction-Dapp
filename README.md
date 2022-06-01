@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ac12644/Auction-Dapp">
-    <img src="auction.png" alt="Logo" width="80" height="80">
+    <img src="bid.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Auction Dapp</h3>
